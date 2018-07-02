@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 3447a0a815e482a499681540638b32ca
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: cha02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 1170
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_52
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 455
+        width: 1176
+        height: 569
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_52
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 581
+        width: 198
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_53
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 584
+        width: 198
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_54
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 586
+        width: 211
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_55
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 105
+        width: 891
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_56
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 160
+        width: 352
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_57
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 213
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_58
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 45
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_59
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 42
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_60
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 82
+        width: 286
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_61
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 83
+        width: 281
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_62
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 51
+        width: 215
+        height: 387
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_63
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 51
+        width: 138
+        height: 388
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: cha02_64
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 127
+        width: 237
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_65
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 128
+        width: 238
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_66
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 127
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_67
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 125
+        width: 230
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_68
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 126
+        width: 232
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cha02_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
